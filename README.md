@@ -1,6 +1,30 @@
 # Jest Test Case
 
+>>package.json
+```bash
+{
+  "name": "Jest-Test-Case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Benson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bensond92/JestBasics.git"
+  }
+}
 
+```
+How to run Test Case
+> npm run test
 
 ## Passed Case
 >test('Basic Arthmetic Calculation ' , () => {
