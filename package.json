@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bensond92/JestBasics.git"
   }
 }
